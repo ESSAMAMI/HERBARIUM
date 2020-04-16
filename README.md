@@ -1,4 +1,4 @@
-# **PA - Project : Learn2draw** :art:
+# **Project : HERBARIUM** :four_leaf_clover:
 
 The Herbarium 2020 FGVC7 Challenge is to identify vascular plant species from a large, long-tailed collection herbarium specimens provided by the New York Botanical Garden (NYBG). 
 
